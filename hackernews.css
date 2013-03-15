@@ -1,0 +1,28 @@
+table {
+  width: 800px;
+  background-color: #fff;
+}
+
+body {
+  background-color: #eceef1;
+}
+
+tr {
+  height: 30px;
+}
+
+tbody tr:hover {
+    background-color: #eceef1;
+}
+
+.title {
+  font-family: Helvetica;
+}
+
+tbody tr td.title:nth-child(1) {
+      opacity: 0;
+}
+
+tbody tr td img {
+      opacity: 0;
+}
