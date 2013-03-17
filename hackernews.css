@@ -16,7 +16,13 @@ tbody tr:hover {
 }
 
 .title {
-  font-family: Helvetica;
+  font-family: Arvo;
+  font-size: 14px;
+}
+
+a:hover {
+    color: #ff6600;
+ 	font-size: 16px;
 }
 
 tbody tr td.title:nth-child(1) {
